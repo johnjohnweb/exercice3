@@ -1,3 +1,6 @@
 body {
   background: url(../images/wavy.png) repeat scroll 0 0;
 }
+div#navbarColor01 {
+  margin-left: 30em;
+}
